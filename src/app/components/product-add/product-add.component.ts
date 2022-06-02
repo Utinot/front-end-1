@@ -22,3 +22,4 @@ export class ProductAddComponent implements OnInit {
     this.onAdd.emit(this.product)
   }
 }
+
